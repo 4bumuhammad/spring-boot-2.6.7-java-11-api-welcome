@@ -39,7 +39,7 @@
 
 ---
 
-### #x1F530; Running
+### &#x1F530; Running
 
     ❯ mvn spring-boot:run
 
