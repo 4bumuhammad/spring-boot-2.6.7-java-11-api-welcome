@@ -108,7 +108,7 @@
     URL http://localhost:8080/api/welcome
 
 <p align="center">
-    <img src="./gambar-petunjuk/underconstruction.png" alt="underconstruction" style="display: block; margin: 0 auto;">
+    <img src="./gambar-petunjuk/ss_spring-boot_result.png" alt="ss_spring-boot_result" style="display: block; margin: 0 auto;">
 </p>
 
 ---
