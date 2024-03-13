@@ -118,7 +118,7 @@
 </p>
 
 
-### Notes :
+### &#x1FAA7; Notes :
 
     ❯ mvn --version
 
