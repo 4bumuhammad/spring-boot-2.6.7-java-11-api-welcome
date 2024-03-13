@@ -26,7 +26,7 @@
 
 
 
- ### &#x1F530; Stages and codes
+### &#x1F530; Stages and codes
 
     # create a directory in Visual Studio Code at path `src/main/java/com/domain/testwelcome/controller`
 
@@ -39,7 +39,7 @@
 
 ---
 
-### Running
+### #x1F530; Running
 
     ❯ mvn spring-boot:run
 
