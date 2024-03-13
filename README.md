@@ -34,7 +34,7 @@
 
 
 <p align="center">
-    <img src="./gambar-petunjuk/underconstruction.png" alt="underconstruction" style="display: block; margin: 0 auto;">
+    <img src="./gambar-petunjuk/ss_stages_and_codes_001.png" alt="ss_stages_and_codes_001" style="display: block; margin: 0 auto;">
 </p>
 
 ---
