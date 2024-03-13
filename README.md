@@ -60,23 +60,23 @@
         [INFO] 
         [INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ test-welcome ---
         [INFO] Changes detected - recompiling the module!
-        [INFO] Compiling 2 source files to /Users/powercommerce/Documents/test/from-github-all/spring-boot-test-welcome/target/classes
+        [INFO] Compiling 2 source files to /Users/.../spring-boot-2.6.7-java-11-api-welcome/target/classes
         [INFO] 
         [INFO] --- maven-resources-plugin:3.2.0:testResources (default-testResources) @ test-welcome ---
         [INFO] Using 'UTF-8' encoding to copy filtered resources.
         [INFO] Using 'UTF-8' encoding to copy filtered properties files.
-        [INFO] skip non existing resourceDirectory /Users/powercommerce/Documents/test/from-github-all/spring-boot-test-welcome/src/test/resources
+        [INFO] skip non existing resourceDirectory /Users/.../spring-boot-2.6.7-java-11-api-welcome/src/test/resources
         [INFO] 
         [INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ test-welcome ---
         [INFO] Changes detected - recompiling the module!
-        [INFO] Compiling 1 source file to /Users/powercommerce/Documents/test/from-github-all/spring-boot-test-welcome/target/test-classes
+        [INFO] Compiling 1 source file to /Users/.../spring-boot-2.6.7-java-11-api-welcome/target/test-classes
         [INFO] 
         [INFO] <<< spring-boot-maven-plugin:2.6.7:run (default-cli) < test-compile @ test-welcome <<<
         [INFO] 
         [INFO] 
         [INFO] --- spring-boot-maven-plugin:2.6.7:run (default-cli) @ test-welcome ---
         [INFO] Attaching agents: []
-        17:14:44.258 [Thread-0] DEBUG org.springframework.boot.devtools.restart.classloader.RestartClassLoader - Created RestartClassLoader org.springframework.boot.devtools.restart.classloader.RestartClassLoader@1b06b9ef
+        12:04:35.550 [Thread-0] DEBUG org.springframework.boot.devtools.restart.classloader.RestartClassLoader - Created RestartClassLoader org.springframework.boot.devtools.restart.classloader.RestartClassLoader@7a6768da
 
         .   ____          _            __ _ _
         /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
@@ -86,19 +86,21 @@
         =========|_|==============|___/=/_/_/_/
         :: Spring Boot ::                (v2.6.7)
 
-        2024-03-12 17:14:44.637  INFO 65699 --- [  restartedMain] c.d.testwelcome.TestWelcomeApplication   : Starting TestWelcomeApplication using Java 11.0.14 on Powercommerces-MacBook-Pro-7.local with PID 65699 (/Users/powercommerce/Documents/test/from-github-all/spring-boot-test-welcome/target/classes started by powercommerce in /Users/powercommerce/Documents/test/from-github-all/spring-boot-test-welcome)
-        2024-03-12 17:14:44.637  INFO 65699 --- [  restartedMain] c.d.testwelcome.TestWelcomeApplication   : No active profile set, falling back to 1 default profile: "default"
-        2024-03-12 17:14:44.656  INFO 65699 --- [  restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
-        2024-03-12 17:14:44.656  INFO 65699 --- [  restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
-        2024-03-12 17:14:45.008  INFO 65699 --- [  restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
-        2024-03-12 17:14:45.012  INFO 65699 --- [  restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-        2024-03-12 17:14:45.013  INFO 65699 --- [  restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
-        2024-03-12 17:14:45.034  INFO 65699 --- [  restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-        2024-03-12 17:14:45.034  INFO 65699 --- [  restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 378 ms
-        2024-03-12 17:14:45.176  INFO 65699 --- [  restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
-        2024-03-12 17:14:45.194  INFO 65699 --- [  restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
-        2024-03-12 17:14:45.200  INFO 65699 --- [  restartedMain] c.d.testwelcome.TestWelcomeApplication   : Started TestWelcomeApplication in 0.936 seconds (JVM running for 1.171)
-
+        2024-03-13 12:04:35.950  INFO 75171 --- [  restartedMain] c.d.testwelcome.TestWelcomeApplication   : Starting TestWelcomeApplication using Java 11.0.14 on Powercommerces-MacBook-Pro-7.local with PID 75171 (/Users/.../spring-boot-2.6.7-java-11-api-welcome/target/classes started by powercommerce in /Users/.../spring-boot-2.6.7-java-11-api-welcome)
+        2024-03-13 12:04:35.951  INFO 75171 --- [  restartedMain] c.d.testwelcome.TestWelcomeApplication   : No active profile set, falling back to 1 default profile: "default"
+        2024-03-13 12:04:35.971  INFO 75171 --- [  restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+        2024-03-13 12:04:35.972  INFO 75171 --- [  restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+        2024-03-13 12:04:36.369  INFO 75171 --- [  restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+        2024-03-13 12:04:36.375  INFO 75171 --- [  restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+        2024-03-13 12:04:36.375  INFO 75171 --- [  restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+        2024-03-13 12:04:36.398  INFO 75171 --- [  restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+        2024-03-13 12:04:36.398  INFO 75171 --- [  restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 426 ms
+        2024-03-13 12:04:36.544  INFO 75171 --- [  restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+        2024-03-13 12:04:36.563  INFO 75171 --- [  restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+        2024-03-13 12:04:36.569  INFO 75171 --- [  restartedMain] c.d.testwelcome.TestWelcomeApplication   : Started TestWelcomeApplication in 1.014 seconds (JVM running for 1.267)
+        2024-03-13 12:04:53.629  INFO 75171 --- [nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+        2024-03-13 12:04:53.630  INFO 75171 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+        2024-03-13 12:04:53.632  INFO 75171 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
 
 
 #### Open Browser
